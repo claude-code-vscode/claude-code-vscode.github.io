@@ -20,4 +20,5 @@ This is for developers who already live in VS Code and already pay for Claude, a
 
 *This is an independent page about a third-party product, with no affiliation to or endorsement from Anthropic or Microsoft; all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
